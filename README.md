@@ -41,4 +41,5 @@
 
 <p align="center">
 <a href="thyago14vk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thyago14vk@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="discord.com/Gomes#9098"><img alt="Discord" src="https://droplr.com/wp-content/uploads/2020/06/discord-logo-1200x400.jpg"></a>
 </p>
