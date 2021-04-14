@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I studied Computer Science at <a href="http://ufrj.br">UFRJ</a>.
-- 💼 &nbsp; I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a>.
 - 🌱 &nbsp; Learning more about JS, React.JS and Discord BOT Development.
 - ✍️ &nbsp; I’m looking to collaborate on Discord and help with FiveM GTA RP Development.
 
