@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Learning more about JS, React.JS and Discord BOT Development.
-- ✍️ &nbsp; I’m looking to collaborate on Discord and help with FiveM GTA RP Development.
+- ✍️ &nbsp; I’m looking to collaborate on Discord Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
